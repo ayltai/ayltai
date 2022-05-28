@@ -11,8 +11,6 @@
 * [Medium](https://medium.com/@ayltai)
 * [Zuhlke](https://www.zuehlke.com/gb/en/)
 
-![Snake](github-snake-dark.svg)
-
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayltai&theme=github_dark)
 
 ![Contributions](/metrics.plugin.isocalendar.fullyear.svg)![Languages](/metrics.plugin.languages.indepth.svg)
