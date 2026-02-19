@@ -16,7 +16,7 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
       - name: Most used languages
-        uses: stefvuck/github-profile-language-analytics@v1.1.0
+        uses: StefVuck/Github-Language-Stats@v1.1.0
         with:
           visualization_types: leaderboard
           output_path: stats
