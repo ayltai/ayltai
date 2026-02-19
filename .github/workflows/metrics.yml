@@ -23,6 +23,6 @@ jobs:
         with:
           visualization_types: leaderboard
           output_path: stats
-          exclude_languages: HTML,CSS
+          exclude_languages: "HTML,CSS,MDX,MAKEFILE,EJS,DOCKERFILE,RUBY,BATCHFILE"
           dark_mode: true
           github_token: ${{ secrets.METRICS_TOKEN }}
