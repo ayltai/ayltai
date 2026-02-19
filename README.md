@@ -13,4 +13,4 @@
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayltai&theme=github_dark)
 
-![Contributions](/metrics.plugin.calendar.full.svg)![Languages](/metrics.plugin.languages.svg)
+![Contributions](/metrics.plugin.calendar.full.svg)![Languages](/stats/leaderboard_by_lines.png)
