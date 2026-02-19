@@ -11,10 +11,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          token: ${{ secrets.METRICS_TOKEN }}
       - name: Most used languages
         uses: StefVuck/Github-Language-Stats@v1.1.0
         with:
@@ -22,3 +22,4 @@ jobs:
           output_path: stats
           exclude_languages: HTML,CSS
           dark_mode: true
+          github_token: ${{ secrets.METRICS_TOKEN }}
